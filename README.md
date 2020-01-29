@@ -1,0 +1,2 @@
+# Generating-the-electricity-bill-using-Default-Arguments-in-java
+Generating the electricity bill using Default Arguments An electricity board charges the following rates to domestic users to discourage large conceptions of energy. 100 units=Rs.1.50 p/unit 200 units=Rs.1.80 p/unit Beyond 200 Rs.2.50 p/unit All users are charged a minimum of the total amount is more than 300 then an additional surcharge of 15% is added. Write a java program to read the names of users, number of units consumed and print out the charge using default. 
